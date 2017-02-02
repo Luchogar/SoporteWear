@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+|<item android:id="@+id/mContacto"
+    android:title="@string/mContacto">
+</item>
+ <item android:id="@+id/mAbout"
+     android:title="@string/mAbout">
+ </item>
+ <item android:id="@+id/mregistrarUsuario"
+     android:title="@string/mRegistrar">
+ </item>
+ <item android:id="@+id/topFavoritos"
+     android:title="Favoritos"
+     android:icon="@drawable/star_hotel_48"
+     app:showAsAction="always"
+     >
+ </item>
+ <item android:id="@+id/mNotificaciones"
+     android:title="@string/mNotificaciones">
+ </item>
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SoporteWear</string>
+    <string name="nombre1">Kitty</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="fecha">14/01/17 04:50:41</string>
+    <string-array name="claves">
+        <item>UNO</item>
+        <item>DOS</item>
+        <item>TRES</item>
+        <item>CUATRO</item>
+        <item>CINCO</item>
+    </string-array>
+
+    <string name="mContacto">Contacto</string>
+    <string name="mAbout">Acerca de</string>
+    <string name="mRegistrar">Configurar cuenta</string>
+    <string name="mNotificaciones">Recibir notificaciones</string>
+
+    <string name="nombreContacto">Nombre</string>
+    <string name="correoContacto">Email</string>
+    <string name="mensajeContacto">Mensaje</string>
+    <string name="textoEnviar">Enviar comentario</string>
+
+    <string name="nombreAcercaDe">Miguel Angel Bautista Cruz</string>
+    <string name="perfil">Estudiante de Ingeniería en Sistemas Computacionales</string>
+    <string name="github">https://github.com/AlephIcabod</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnUsuario">Guardar Cuenta</string>
+    <string name="txtusuario">Ingresa tu usuario</string>
+
+</resources>
